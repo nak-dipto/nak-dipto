@@ -1,6 +1,5 @@
-### Hi there 👋
-Achievements:
-WENT TO TARC, WHERE I MADE A BESTIE AND A BESTU...
+# Hi there 👋
+I'VE GOT A BESTIE AND A BESTUU...
 <!--
 **nak-dipto/nak-dipto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
